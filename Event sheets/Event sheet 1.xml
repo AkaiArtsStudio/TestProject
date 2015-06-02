@@ -2,5 +2,14 @@
 <c2eventsheet>
     <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
     <name>Event sheet 1</name>
-    <events />
+    <events>
+        <event-block sid="3668430766518814">
+            <conditions>
+                <condition id="-2" name="On start of layout" sid="574034564636662" type="System" />
+            </conditions>
+            <actions>
+                <action id="-9" name="Destroy" sid="3085915862591517" type="smallerBlock" />
+            </actions>
+        </event-block>
+    </events>
 </c2eventsheet>
