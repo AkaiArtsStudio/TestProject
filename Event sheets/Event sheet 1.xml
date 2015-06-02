@@ -9,6 +9,9 @@
             </conditions>
             <actions>
                 <action id="-9" name="Destroy" sid="3085915862591517" type="smallerBlock" />
+                <action id="6" name="Set checked" sid="6363429673305894" type="Button">
+                    <param id="0" name="State">0</param>
+                </action>
             </actions>
         </event-block>
     </events>
